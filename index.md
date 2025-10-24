@@ -6,3 +6,5 @@
 ###### New Header 6
 
 This shows the various header sizes. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
